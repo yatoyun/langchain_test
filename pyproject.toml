@@ -1,0 +1,15 @@
+[project]
+name = "langchain-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gitpython>=3.1.45",
+    "langchain-community>=0.3.30",
+    "python-dotenv>=1.1.1",
+    "ragas>=0.3.5",
+    "ruff>=0.13.2",
+    "unstructured>=0.18.15",
+]
